@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8516BC-6C77-41B0-88BF-287F2777D6C8}|AppExemplo8Vetores\\AppExemplo8Vetores.csproj|c:\\users\\andre.h\\source\\repos\\appexemplo4estruturarepeticao\\appexemplo8vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8516BC-6C77-41B0-88BF-287F2777D6C8}|AppExemplo8Vetores\\AppExemplo8Vetores.csproj|solutionrelative:appexemplo8vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1CAF14-474F-4709-92CC-1674D9EFA0AF}|AppExemplo7EstruturaRepeticao\\AppExemplo7EstruturaRepeticao.csproj|c:\\users\\andre.h\\source\\repos\\appexemplo4estruturarepeticao\\appexemplo7estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1CAF14-474F-4709-92CC-1674D9EFA0AF}|AppExemplo7EstruturaRepeticao\\AppExemplo7EstruturaRepeticao.csproj|solutionrelative:appexemplo7estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EE352A-582A-699A-8017-31B809919D09}|AppExemplo5EstruturaRepeticao\\AppExemplo5EstruturaRepeticao.csproj|c:\\users\\andre.h\\source\\repos\\appexemplo4estruturarepeticao\\appexemplo5estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EE352A-582A-699A-8017-31B809919D09}|AppExemplo5EstruturaRepeticao\\AppExemplo5EstruturaRepeticao.csproj|solutionrelative:appexemplo5estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE353029-D71E-6121-19CB-18F4ECBD9D63}|AppExemplo6EstruturaRepeticao\\AppExemplo6EstruturaRepeticao.csproj|c:\\users\\andre.h\\source\\repos\\appexemplo4estruturarepeticao\\appexemplo6estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE353029-D71E-6121-19CB-18F4ECBD9D63}|AppExemplo6EstruturaRepeticao\\AppExemplo6EstruturaRepeticao.csproj|solutionrelative:appexemplo6estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D732783-741B-6DD3-C1EE-6035640F899B}|AppExemplo4EstruturaRepeticao\\AppExemplo4EstruturaRepeticao.csproj|c:\\users\\andre.h\\source\\repos\\appexemplo4estruturarepeticao\\appexemplo4estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D732783-741B-6DD3-C1EE-6035640F899B}|AppExemplo4EstruturaRepeticao\\AppExemplo4EstruturaRepeticao.csproj|solutionrelative:appexemplo4estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo7EstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemplo7EstruturaRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo7EstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "AppExemplo7EstruturaRepeticao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:20:31.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo5EstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemplo5EstruturaRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo5EstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "AppExemplo5EstruturaRepeticao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T23:10:55.466Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo8Vetores\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemplo8Vetores\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo8Vetores\\Program.cs",
+              "RelativeToolTip": "AppExemplo8Vetores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:38:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo6EstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemplo6EstruturaRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo6EstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "AppExemplo6EstruturaRepeticao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T23:36:32.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo4EstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemplo4EstruturaRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AppExemplo4EstruturaRepeticao\\AppExemplo4EstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "AppExemplo4EstruturaRepeticao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T22:49:52.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

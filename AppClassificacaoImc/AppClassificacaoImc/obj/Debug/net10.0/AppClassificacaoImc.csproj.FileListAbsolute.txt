@@ -1,0 +1,14 @@
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\bin\Debug\net10.0\AppClassificacaoImc.exe
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\bin\Debug\net10.0\AppClassificacaoImc.deps.json
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\bin\Debug\net10.0\AppClassificacaoImc.runtimeconfig.json
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\bin\Debug\net10.0\AppClassificacaoImc.dll
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\bin\Debug\net10.0\AppClassificacaoImc.pdb
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.AssemblyInfoInputs.cache
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.AssemblyInfo.cs
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.csproj.CoreCompileInputs.cache
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.dll
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\refint\AppClassificacaoImc.dll
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.pdb
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\AppClassificacaoImc.genruntimeconfig.cache
+C:\Users\andre.h\source\repos\AppClassificacaoImc\AppClassificacaoImc\obj\Debug\net10.0\ref\AppClassificacaoImc.dll

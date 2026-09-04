@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppClassificacaoFaixaEtaria/AppClassificacaoFaixaEtaria.csproj" />
+  <Project Path="AppValidacaoConta/AppValidacaoConta.csproj" />
+  <Project Path="AtividadesAulasExercicios/AppExercicioRevisaoLogica.csproj" />
+  <Project Path="WebApiExercioRevisaoLogica/WebApiExercioRevisaoLogica.csproj" />
+</Solution>

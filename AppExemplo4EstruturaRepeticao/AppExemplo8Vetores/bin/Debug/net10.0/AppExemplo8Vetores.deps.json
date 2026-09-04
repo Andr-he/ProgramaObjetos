@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AppExemplo8Vetores/1.0.0": {
+        "runtime": {
+          "AppExemplo8Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppExemplo8Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

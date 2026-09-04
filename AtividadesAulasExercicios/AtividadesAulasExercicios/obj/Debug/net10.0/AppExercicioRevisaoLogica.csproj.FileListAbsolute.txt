@@ -1,0 +1,14 @@
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\bin\Debug\net10.0\AppExercicioRevisaoLogica.exe
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\bin\Debug\net10.0\AppExercicioRevisaoLogica.deps.json
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\bin\Debug\net10.0\AppExercicioRevisaoLogica.runtimeconfig.json
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\bin\Debug\net10.0\AppExercicioRevisaoLogica.dll
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\bin\Debug\net10.0\AppExercicioRevisaoLogica.pdb
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.AssemblyInfoInputs.cache
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.AssemblyInfo.cs
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.csproj.CoreCompileInputs.cache
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.dll
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\refint\AppExercicioRevisaoLogica.dll
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.pdb
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\AppExercicioRevisaoLogica.genruntimeconfig.cache
+C:\Users\andre.h\source\repos\AtividadesAulasExercicios\AtividadesAulasExercicios\obj\Debug\net10.0\ref\AppExercicioRevisaoLogica.dll

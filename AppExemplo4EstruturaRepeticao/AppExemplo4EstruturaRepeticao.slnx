@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AppExemplo4EstruturaRepeticao/AppExemplo4EstruturaRepeticao.csproj" />
+  <Project Path="AppExemplo5EstruturaRepeticao/AppExemplo5EstruturaRepeticao.csproj" />
+  <Project Path="AppExemplo6EstruturaRepeticao/AppExemplo6EstruturaRepeticao.csproj" />
+  <Project Path="AppExemplo7EstruturaRepeticao/AppExemplo7EstruturaRepeticao.csproj" Id="1c1caf14-474f-4709-92cc-1674d9efa0af" />
+  <Project Path="AppExemplo8Vetores/AppExemplo8Vetores.csproj" Id="7e8516bc-6c77-41b0-88bf-287f2777d6c8" />
+</Solution>

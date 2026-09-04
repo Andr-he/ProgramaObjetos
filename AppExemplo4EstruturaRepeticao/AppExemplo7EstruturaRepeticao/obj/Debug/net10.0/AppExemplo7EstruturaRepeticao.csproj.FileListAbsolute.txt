@@ -1,0 +1,14 @@
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.AssemblyInfo.cs
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\bin\Debug\net10.0\AppExemplo7EstruturaRepeticao.exe
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\bin\Debug\net10.0\AppExemplo7EstruturaRepeticao.deps.json
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\bin\Debug\net10.0\AppExemplo7EstruturaRepeticao.runtimeconfig.json
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\bin\Debug\net10.0\AppExemplo7EstruturaRepeticao.dll
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\bin\Debug\net10.0\AppExemplo7EstruturaRepeticao.pdb
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.dll
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\refint\AppExemplo7EstruturaRepeticao.dll
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.pdb
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\AppExemplo7EstruturaRepeticao.genruntimeconfig.cache
+C:\Users\andre.h\source\repos\AppExemplo4EstruturaRepeticao\AppExemplo7EstruturaRepeticao\obj\Debug\net10.0\ref\AppExemplo7EstruturaRepeticao.dll

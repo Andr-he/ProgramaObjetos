@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\webapiexerciorevisaologica\\controllers\\exercicio4calculosalariobonificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|solutionrelative:webapiexerciorevisaologica\\controllers\\exercicio4calculosalariobonificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\webapiexerciorevisaologica\\controllers\\exercicio5sistemadescontolojacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|solutionrelative:webapiexerciorevisaologica\\controllers\\exercicio5sistemadescontolojacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\webapiexerciorevisaologica\\controllers\\exercicio2classificacaofaixaetariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|solutionrelative:webapiexerciorevisaologica\\controllers\\exercicio2classificacaofaixaetariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\webapiexerciorevisaologica\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|solutionrelative:webapiexerciorevisaologica\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\webapiexerciorevisaologica\\controllers\\exercicio3validacaoacessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|solutionrelative:webapiexerciorevisaologica\\controllers\\exercicio3validacaoacessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\webapiexerciorevisaologica\\controllers\\exercicio1medianotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1684802-8427-5D2B-890B-1E4BB4B4829F}|WebApiExercioRevisaoLogica\\WebApiExercioRevisaoLogica.csproj|solutionrelative:webapiexerciorevisaologica\\controllers\\exercicio1medianotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7499FC04-226C-5B8A-E5A0-0BBD927E613D}|AtividadesAulasExercicios\\AppExercicioRevisaoLogica.csproj|c:\\users\\andre.h\\source\\repos\\atividadesaulasexercicios\\atividadesaulasexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7499FC04-226C-5B8A-E5A0-0BBD927E613D}|AtividadesAulasExercicios\\AppExercicioRevisaoLogica.csproj|solutionrelative:atividadesaulasexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio5SistemaDescontoLojaController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio5SistemaDescontoLojaController.cs",
+              "RelativeDocumentMoniker": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio5SistemaDescontoLojaController.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio5SistemaDescontoLojaController.cs",
+              "RelativeToolTip": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio5SistemaDescontoLojaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T23:23:03.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio4CalculoSalarioBonificacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio4CalculoSalarioBonificacaoController.cs",
+              "RelativeDocumentMoniker": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio4CalculoSalarioBonificacaoController.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio4CalculoSalarioBonificacaoController.cs",
+              "RelativeToolTip": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio4CalculoSalarioBonificacaoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T23:15:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio2ClassificacaoFaixaEtariaController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio2ClassificacaoFaixaEtariaController.cs",
+              "RelativeDocumentMoniker": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio2ClassificacaoFaixaEtariaController.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio2ClassificacaoFaixaEtariaController.cs",
+              "RelativeToolTip": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio2ClassificacaoFaixaEtariaController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:53:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiExercioRevisaoLogica\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiExercioRevisaoLogica\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T00:38:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio3ValidacaoAcessoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio3ValidacaoAcessoController.cs",
+              "RelativeDocumentMoniker": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio3ValidacaoAcessoController.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio3ValidacaoAcessoController.cs",
+              "RelativeToolTip": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio3ValidacaoAcessoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T23:07:49.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio1MediaNotaController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio1MediaNotaController.cs",
+              "RelativeDocumentMoniker": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio1MediaNotaController.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\WebApiExercioRevisaoLogica\\Controllers\\Exercicio1MediaNotaController.cs",
+              "RelativeToolTip": "WebApiExercioRevisaoLogica\\Controllers\\Exercicio1MediaNotaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T00:43:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\AtividadesAulasExercicios\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadesAulasExercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.h\\source\\repos\\AtividadesAulasExercicios\\AtividadesAulasExercicios\\Program.cs",
+              "RelativeToolTip": "AtividadesAulasExercicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T22:41:28.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

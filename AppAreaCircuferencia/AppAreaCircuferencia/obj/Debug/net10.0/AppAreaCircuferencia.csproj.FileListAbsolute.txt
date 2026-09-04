@@ -1,0 +1,14 @@
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\bin\Debug\net10.0\AppAreaCircuferencia.exe
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\bin\Debug\net10.0\AppAreaCircuferencia.deps.json
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\bin\Debug\net10.0\AppAreaCircuferencia.runtimeconfig.json
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\bin\Debug\net10.0\AppAreaCircuferencia.dll
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\bin\Debug\net10.0\AppAreaCircuferencia.pdb
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.AssemblyInfoInputs.cache
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.AssemblyInfo.cs
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.csproj.CoreCompileInputs.cache
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.dll
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\refint\AppAreaCircuferencia.dll
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.pdb
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\AppAreaCircuferencia.genruntimeconfig.cache
+C:\Users\andre.h\source\repos\AppAreaCircuferencia\AppAreaCircuferencia\obj\Debug\net10.0\ref\AppAreaCircuferencia.dll
